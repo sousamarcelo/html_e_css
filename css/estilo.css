@@ -54,3 +54,9 @@ figure{
 #imagem-topo{
 	text-align: center;
 }
+#nome-usuario{
+	text-align: center;
+	font-family: arial;
+	font-size: 18px;
+	color: #fff;
+}
